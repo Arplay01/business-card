@@ -21,12 +21,15 @@ body {
     padding: 32px;
     max-width: 600px;
     display: flex;
+    box-shadow: 0px 0px 300px rgb(119, 46, 46);
 }
 
 .hero__photo {
     max-width: 161px;
     max-height: 161px;
     margin-right: 16px;
+    border-radius: 50%;
+    box-shadow: -5px 5px 30px #333333;
 }
 
 .hero__name {
